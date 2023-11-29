@@ -1,4 +1,4 @@
-# cmsitehttps://cad2023-1.41123237-hank.repl.co
+# cmsite
 cmsimde template uses mdecycu/cmsimde as submodule
 
 On Replit:
